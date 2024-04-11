@@ -1,0 +1,4 @@
+Deployed on Back4app using anantharamachandranb@gmail.com
+Install "npm install parse" to connect 
+
+application key and javascript key is in this same folder.
